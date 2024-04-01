@@ -3,9 +3,9 @@ import numpy as np
 
 
 def daltonize(image, level):
-
+    # DALTONIZATION/COLOR BLINDNESS CORRECTION GOES HERE
     daltonization_matrix = np.array([[1, 0, 0],
-                                     [0, 1, 0],
+                                     [0.4942, 0, 1.2483],
                                      [0, 0, 1]])
     
     corrected_image = cv.transform(image, daltonization_matrix * level)
