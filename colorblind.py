@@ -5,7 +5,7 @@ import numpy as np
 def daltonize(image, level, deficiency_type):
     # DALTONIZATION/COLOR BLINDNESS CORRECTION GOES HERE
 
-    # Notes 4/4/2025 - Tritanomaly matrix values are placeholder atm
+    # Notes 4/4/2024 - Tritanomaly matrix values are placeholder atm
     
     daltonization_matrices = {
         "Deuteranomaly": np.array([[1, 0, 0],
