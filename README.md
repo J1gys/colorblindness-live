@@ -1,6 +1,6 @@
 # IMAGPRO - S12
 ## Guided Research Project Final Code
-### Group 2
+### Group 2 - VividView Authors
 - Javier, Juan Diego
 - Kho, John
 - La’O, Erin Denise
