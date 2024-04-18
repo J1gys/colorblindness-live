@@ -1,0 +1,11 @@
+##########################
+##      VIVIDVIEW       ##
+##  Javier, Juan Diego  ##
+##  Kho, John           ##
+##  La’O, Erin Denise   ##
+##  Reyes, Cyril Sam    ##
+##########################
+
+Packages needed to run the project:
+- cv2
+- numpy
